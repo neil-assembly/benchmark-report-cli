@@ -1,0 +1,8 @@
+__pycache__
+keys.json
+google.json
+venv
+.env
+test
+2022-benchmark
+.DS_Store
